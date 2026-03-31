@@ -17,7 +17,7 @@
 
 ### 🙋‍♀️ About Me
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="380" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="380" />
 
 ```js
 const deekhita = {
@@ -38,7 +38,7 @@ const deekhita = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,php,mysql,git,github,vscode&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,php,mysql,github,vscode&perline=6&theme=dark" />
 
 </div>
 
@@ -92,7 +92,7 @@ const deekhita = {
 
 <div align="center">
 
-### 📊 Competitive Programming & Stats
+### 📊 LeetCode & GitHub Stats
 
 <br>
 
